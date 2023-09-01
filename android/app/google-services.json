@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1079975894820",
+    "project_id": "firelist-76704",
+    "storage_bucket": "firelist-76704.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079975894820:android:d65ac562cd54c19fc9ddb1",
+        "android_client_info": {
+          "package_name": "com.example.firebaselist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079975894820-r537esit9qf2itp37bej7ii92mj7ps3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfS_jotj5MJR3ralu_bUfkWk3dBr8z7Hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079975894820-r537esit9qf2itp37bej7ii92mj7ps3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079975894820:android:e6dfd2d016c618a6c9ddb1",
+        "android_client_info": {
+          "package_name": "com.example.granregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079975894820-r537esit9qf2itp37bej7ii92mj7ps3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfS_jotj5MJR3ralu_bUfkWk3dBr8z7Hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079975894820-r537esit9qf2itp37bej7ii92mj7ps3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
